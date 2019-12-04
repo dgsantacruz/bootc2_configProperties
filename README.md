@@ -1,0 +1,2 @@
+# bootc2_configProperties
+Configuration Properties storage
